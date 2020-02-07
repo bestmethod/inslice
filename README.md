@@ -1,6 +1,6 @@
 # InSlice
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/bestmethod/inslice)](https://goreportcard.com/report/github.com/bestmethod/inslice) [![Travis Build Status](https://travis-ci.com/bestmethod/inslice.svg?branch=master)](https://travis-ci.com/bestmethod/inslice.svg?branch=master) [![CodeCov Code Coverage](https://codecov.io/github/bestmethod/inslice/coverage.svg)](https://codecov.io/github/bestmethod/inslice/coverage.svg) [![Godoc](https://godoc.org/github.com/bestmethod/inslice?status.svg)](https://godoc.org/github.com/bestmethod/inslice)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bestmethod/inslice)](https://goreportcard.com/report/github.com/bestmethod/inslice) [![Travis Build Status](https://travis-ci.com/bestmethod/inslice.svg?branch=master)](https://travis-ci.com/bestmethod/inslice) [![CodeCov Code Coverage](https://codecov.io/github/bestmethod/inslice/coverage.svg)](https://codecov.io/github/bestmethod/inslice/) [![Godoc](https://godoc.org/github.com/bestmethod/inslice?status.svg)](https://godoc.org/github.com/bestmethod/inslice)
 
 ## Description
 
