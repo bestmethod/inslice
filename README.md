@@ -1,8 +1,10 @@
 # InSlice
 
-A bunch of functions for comparing if item is present in slice and receiving the index results.
+[![Go Report Card](https://goreportcard.com/badge/github.com/bestmethod/inslice)](https://goreportcard.com/report/github.com/bestmethod/inslice) [![Travis Build Status](https://travis-ci.com/bestmethod/inslice.svg?branch=master)](https://travis-ci.com/bestmethod/inslice.svg?branch=master) [![CodeCov Code Coverage](https://codecov.io/github/bestmethod/inslice/coverage.svg)](https://codecov.io/github/bestmethod/inslice/coverage.svg) [![Godoc](https://godoc.org/github.com/bestmethod/inslice?status.svg)](https://godoc.org/github.com/bestmethod/inslice)
 
-Test Code Coverage at 100%
+## Description
+
+A small range of functions for comparing if item is present in slice and receiving the index results.
 
 ## Functions
 
