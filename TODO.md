@@ -5,4 +5,3 @@
 * float32
 * float64
 * []byte->byte, and [][]byte->[]byte
-* godoc documentation
